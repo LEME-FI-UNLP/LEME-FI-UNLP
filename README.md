@@ -45,16 +45,16 @@ Este espacio reúne los proyectos y herramientas de software desarrollados en el
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="nodejs logo"  />
 </div>
 
-<!--
+
 <br>
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leme-fi-unlp&theme=shadow_blue&hide_border=true&include_all_commits=true&show_icons=true&text_color=9198a1&icon_color=2f80ed&custom_title=Estadísticas&rank_icon=github" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leme-fi-unlp&theme=shadow_blue&hide_border=true&include_all_commits=true&layout=compact&text_color=9198a1&custom_title=Tecnologías%20más%20utilizadas" alt="Top Languages">
+<div align="center">    
+<img src="https://github-readme-stats.vercel.app/api?username=leme-fi-unlp&theme=shadow_blue&hide_border=true&include_all_commits=true&show_icons=true&text_color=9198a1&icon_color=2f80ed&custom_title=Estad%C3%ADsticas&rank_icon=github">    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leme-fi-unlp&theme=shadow_blue&hide_border=true&include_all_commits=true&layout=compact&text_color=9198a1&custom_title=Tecnologías%20más%20utilizadas">
 </div>
--->
+
 
 ---
 
